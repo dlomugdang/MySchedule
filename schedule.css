@@ -1,0 +1,38 @@
+table.align{
+  text-align: left;
+}
+
+tr.cell{
+  width: auto;
+}
+
+th.ex{
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+/*Color Palette adapted from: http://www.colourlovers.com/palette/132637/Odd_but_trendy */
+#p1{
+  background-color: rgb(224,239,241);
+}
+
+#p2{
+  background-color: rgb(125,180,181);
+}
+
+#p3{
+  background-color: rgb(255,255,255);
+}
+
+#p4{
+  background-color: rgb(104,1,172);
+}
+
+#p5{
+  background-color: rgb(0,0,0);
+}
+
+td:hover{
+  background-color: #7DB4B5;
+  color: #FFFFFF;
+}
